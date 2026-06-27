@@ -1,0 +1,81 @@
+{
+  "name": "Yogesh Narigapalli",
+  "first_name": "Yogesh",
+  "last_name": "Narigapalli",
+  "email": "ynarigap@gmail.com",
+  "phone": "(704)-906-5206",
+  "location": "Seattle, WA",
+  "linkedin": "https://linkedin.com/in/yogeshnarigapalli",
+  "resume_path": "resume/Yogesh_Narigapalli_Resume.pdf",
+
+  "target_titles": [
+    "Software Engineer II",
+    "Software Engineer 2",
+    "SDE II",
+    "Senior Software Engineer",
+    "Backend Software Engineer",
+    "Full Stack Software Engineer",
+    "Software Engineer, Distributed Systems",
+    "Software Engineer, Data Platform",
+    "Software Engineer, AI Platform"
+  ],
+
+  "preferred_locations": [
+    "Seattle",
+    "Bellevue",
+    "Redmond",
+    "Kirkland",
+    "California",
+    "Remote"
+  ],
+
+  "minimum_base_salary": 180000,
+  "requires_equity": true,
+  "authorized_to_work_us": true,
+  "requires_h1b_sponsorship": true,
+  "visa_type": "H1B",
+
+  "company_priority": [
+    "Amazon",
+    "AWS",
+    "Microsoft",
+    "Google",
+    "Meta",
+    "Apple",
+    "Snowflake",
+    "Databricks",
+    "Confluent",
+    "Stripe",
+    "Uber",
+    "Airbnb",
+    "DoorDash",
+    "Block",
+    "Coinbase"
+  ],
+
+  "skills": [
+    "Java",
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Angular",
+    "Spring Boot",
+    "Node.js",
+    "GraphQL",
+    "REST APIs",
+    "AWS",
+    "Azure",
+    "Docker",
+    "Kubernetes",
+    "Kafka",
+    "Flink",
+    "Snowflake",
+    "DynamoDB",
+    "MySQL",
+    "Microservices",
+    "Distributed Systems",
+    "Event-driven Architecture",
+    "AI-integrated Systems"
+  ]
+}
